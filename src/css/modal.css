@@ -1,0 +1,14 @@
+.backdrop{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 200px;
+    background-color: aquamarine;
+}
+
+.modal{
+
+}
+
+.bu
